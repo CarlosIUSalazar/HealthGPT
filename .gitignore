@@ -1,0 +1,20 @@
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Local development settings
+instance/
+
+# Environment variables
+.env
+
+# IDE and editor files
+.vscode/
+*.swp
+*~
+
+# Dependencies
+venv/
+lib/
+include/
+bin/
